@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+node_modules/
+dist/
+build/
+.DS_Store
+coverage/
+*.log
+backend/storage/documents/**/*.pdf
+backend/storage/documents/**/*.docx
+backend/storage/documents/**/*.txt
+backend/storage/documents/**/*.csv
+backend/storage/documents/**/*.md
+!backend/storage/documents/**/.gitkeep
