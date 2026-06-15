@@ -1,5 +1,10 @@
 # Enterprise AI Copilot Platform
 
+![CI](https://github.com/KrishnaHarivindh/Enterprise-AI-Copilot-Platform/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/KrishnaHarivindh/Enterprise-AI-Copilot-Platform)
+![Last Commit](https://img.shields.io/github/last-commit/KrishnaHarivindh/Enterprise-AI-Copilot-Platform)
+![Language](https://img.shields.io/github/languages/top/KrishnaHarivindh/Enterprise-AI-Copilot-Platform)
+
 Production-style AI copilot foundation for document intelligence, RAG chat, multi-agent workflows, analytics, and enterprise deployment.
 
 ## Overview
